@@ -1,0 +1,5 @@
+Hola, este es un archivo de prueba.
+Contiene varias líneas de texto.
+
+Esta es otra línea.
+Fin del archivo.
