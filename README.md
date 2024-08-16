@@ -100,4 +100,7 @@ Para ejecutar cualquiera de estos programas, siga estos pasos:
 
    ```bash
    lex archivo.l
+   gcc lex.yy.c -o programa
+   ./programa < archivo_de_entrada.txt
+
 
