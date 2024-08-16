@@ -103,9 +103,9 @@ Para ejecutar cualquiera de estos programas, siga estos pasos:
    gcc lex.yy.c -o programa
    ./programa < archivo_de_entrada.txt
 
-Grupo:
-. Daniel Steven Reyes Pinilla
-. William Santiago Cordero Osorio
-. Johan Steven García Niño
-. Marco Duarte Parra
+####Grupo:
+- Daniel Steven Reyes Pinilla
+- William Santiago Cordero Osorio
+- Johan Steven García Niño
+- Marco Duarte Parra
 
