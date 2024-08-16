@@ -106,6 +106,6 @@ Para ejecutar cualquiera de estos programas, siga estos pasos:
 Grupo:
 . Daniel Steven Reyes Pinilla
 . William Santiago Cordero Osorio
-. Johan García
+. Johan Steven García Niño
 . Marco Duarte Parra
 
