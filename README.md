@@ -1,4 +1,3 @@
-# Taller-2
 # README - Programas en LEX
 
 ## Contenido
